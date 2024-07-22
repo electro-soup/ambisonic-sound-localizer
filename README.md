@@ -10,3 +10,9 @@ Co wyszło?:
 <img width="279" alt="image" src="https://github.com/user-attachments/assets/66bc1006-9cd9-4e4e-983c-5fbdf84156bb">
 
 <img width="470" alt="image" src="https://github.com/user-attachments/assets/6aa4c7df-737f-4453-822c-e00522b18613">
+
+<img width="464" alt="image" src="https://github.com/user-attachments/assets/3f9962f2-43d0-4679-b802-f609810196f7">
+
+<img width="472" alt="image" src="https://github.com/user-attachments/assets/28ba9e1d-6ae9-4e6c-84ac-6cd77af08ad0">
+
+
