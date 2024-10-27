@@ -1,12 +1,13 @@
-Repozytorium bardziej do pochwalenia się zrobionym projektem;)
+Repozytorium bardziej do pochwalenia się zrobionym projektem:)
 
-Tematem mojej magisterki był "Projekt i budowa systemu do lokalizacji źródeł dźwięku wykorzystującego mikrofony ambisoniczne". Zamierzenia były duże - miał powstać system wykorzystujący dwa DIY mikrofony ambisoniczne, który lokalizowałby źródło dźwięku oraz podawałyby jego odległość od systemu. Z racji, że projekt był czasochłonny i kiedyś pasowało się obronić, wyszedł tylko lokalizator, który podawał z którego kąta coś grało, ale i tak wyszedł z tego ciekawy miks, powstał soft, powstały płytki PCB, mikrofony itp. 
+Tematem mojej magisterki był "Projekt i budowa systemu do lokalizacji źródeł dźwięku wykorzystującego mikrofony ambisoniczne". Zamierzenia były duże - miał powstać system wykorzystujący dwa DIY mikrofony ambisoniczne, który lokalizowałby źródło dźwięku oraz podawałyby jego odległość od systemu. Z racji, że projekt był czasochłonny i termin obrony zbliżał się nieubłaganie, wyszedł tylko lokalizator, który podawał z którego kąta dochodził dźwięk, ale i tak to był dosyć ciekawe, edukacyjne i multidyscyplinarne przedsięwzięcie - w jego wyniku powstał soft napisany w C, zaprojektowałem też płytki PCB i sam model mikrofonu.
 
-Źródeł nie ma (zwłaszcza do mikrokontrolera, tak to jest jak się trzyma pliki na zewnętrznym dysku), jedynie został makaron w Labview, który może tu wrzucę.
+Niestety źródła zaginęły w skutek awarii dysku na którym były trzymane (zwłaszcza do mikrokontrolera).
 
-Co wyszło?
-- 8 kanałowa karta dźwiękowa oparta na AVR XMEGA i FT245 (nawet dało się nagrać coś z poziomu labview), jak na 12-bitowe przetworniki XMegi jakość była całkiem ok
+Co udało się zrobić w ramach projektu:
+- 8 kanałową kartę dźwiękową oparta na AVR XMEGA i FT245 (możliwe było wykonanie nagrań z poziomu Labview), jak na 12-bitowe przetworniki XMegi jakość była całkiem dobra
 - "frontend" w labview który przetwarzał próbki i rysował na wykresie w czasie rzeczywistym: https://www.youtube.com/watch?v=qcpD8pY3VA0
+- końcowym wynikiem był lokalizator wektora źródła dźwięku oraz analizator energii pola akustycznego wokół mikrofonu
 
 <img width="279" alt="image" src="https://github.com/user-attachments/assets/66bc1006-9cd9-4e4e-983c-5fbdf84156bb">
 
